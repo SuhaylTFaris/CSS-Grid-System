@@ -1,0 +1,9 @@
+* {
+  text-align: center;
+}
+div {
+  border: solid;
+  border-width: 1px;
+  margin-bottom: 1rem;
+  margin-left: .5rem;
+}
