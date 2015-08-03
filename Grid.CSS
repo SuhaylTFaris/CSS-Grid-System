@@ -7,3 +7,38 @@ div {
   margin-bottom: 1rem;
   margin-left: .5rem;
 }
+
+.row {
+  text-align: left;
+  border-color: red;
+  width: 100%;
+  min-height: 4rem;
+
+}
+
+.col-8 {
+  border-style: dashed;
+  display: inline-block;
+  width: 65%;
+  min-height: 300px;
+}
+
+.col-6 {
+  display: inline-block;
+  width: 48%;
+  min-height: 200px;
+}
+
+.col-4 {
+  vertical-align: top;
+  display: inline-block;
+  width: 32%;
+  min-height: 100px;
+}
+
+.col-1 {
+  display: inline-block;
+  width: 7.5%;
+  min-height: 2rem;
+  margin: 0;
+}
